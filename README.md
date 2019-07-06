@@ -1,3 +1,9 @@
-# Platzi Scripts
+# Jenkins test
 
-Dummy tests are in `jenkins-tests`
+### Tech
+
+Tech used:
+
+* [Jenkins](https://jenkins.io/).
+* [Nodejs](https://nodejs.org/en/) - Although you should install it on Jenkins interfaces :)
+* [Docker](https://www.docker.com/).
